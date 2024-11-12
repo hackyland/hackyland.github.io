@@ -1,0 +1,8 @@
+{
+  "structure": {
+    "readme": "Home.md",
+    "summary": "SUMMARY.md"
+  },
+  "title": "2025 Hyland Hackathon",
+  "plugins": ["toggle-chapters"]
+}
