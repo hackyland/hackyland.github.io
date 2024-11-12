@@ -1,2 +1,2 @@
 # 2025 Hyland Hackathon
-Workshops & Sessions
+Workshops & Sessions for the 2025 Hyland Hackathon
