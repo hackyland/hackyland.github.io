@@ -1,5 +1,7 @@
 * {
   font-family: "Arial", "sans-serif";
+  background: #f8f7f2;
+  color: #191c1a;
 }
 
 h2 {
@@ -14,4 +16,8 @@ h2 {
 .markdown-section img {
   border: 2px solid black;
   box-shadow: 0px 0px 6px 1px black;
+}
+
+.gitbook-link, .font-settings {
+  display: none;
 }
