@@ -1,7 +1,5 @@
 * {
   font-family: "Arial", "sans-serif";
-  background: #f8f7f2;
-  color: #191c1a;
 }
 
 h2 {
@@ -9,7 +7,6 @@ h2 {
 }
 
 .markdown-section a {
-  font-style: italic;
   font-size: 1.1em;
 }
 
@@ -27,13 +24,14 @@ div#book-search-input {
 }
 
 div.book-summary {
-  background: white;
+  background: #f8f7f2;
 }
 
 .book-summary ul.summary li a {
-  background: white;
+  background: #f8f7f2;
 }
 
 .book-summary ul.summary li.active > a {
   color: #006334;
+  font-weight: bold;
 }
