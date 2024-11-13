@@ -1,5 +1,4 @@
 - [2025 Hyland Hackathon](Home.md)
-- [Web World](WebWorld/Home.md)
+- [Web World 🕸🗺](WebWorld/Home.md)
 - [Data_based_](DataBased/Home.md)
-- [Pixel Art](PixelArt/Home.md)
-- 
+- [Pixel Art 🎨](PixelArt/Home.md)
