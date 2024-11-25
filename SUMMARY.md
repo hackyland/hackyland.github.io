@@ -1,4 +1,8 @@
 - [2025 Hyland Hackathon](Home.md)
 - [Web World 🕸🗺](WebWorld/Home.md)
+  - [Code-Along](WebWorld/WebWorldCodeAlong.md)
+  - [Resources](WebWorld/WebResources.md)
+  - [Possibilities](WebWorld/WebPossibilities.md)
+  - [Customization](WebWorld/Customization.md)
 - [Data_based_](DataBased/Home.md)
 - [Pixel Art 🎨](PixelArt/Home.md)
