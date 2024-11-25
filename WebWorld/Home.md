@@ -4,7 +4,7 @@ Learn what you can do with HTML, CSS, and JavaScript on the web.
 **[Click here to remix the starter project on Glitch.](https://glitch.com/edit/#!/remix/web-world-start)**
 
 ## Slides
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/hackyland.github.io/raw/main/WebWorld/WebWorldPresentation.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/hackyland/hackyland.github.io/raw/main/WebWorld/WebWorldPresentation.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along
 [Click here for Code-Along instructions.](WebWorldCodeAlong.md)
