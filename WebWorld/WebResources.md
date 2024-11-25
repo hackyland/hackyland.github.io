@@ -1,9 +1,6 @@
 # Web Resources
 You've only begun to scratch the surface of what the web can do. Dive into some of these resources to start learning more 😎
 
-## More Web Possibilities
-TO DO
-
 ## Hy-Tech Club Material
 Hyland's [Hy-Tech Club](https://www.hyland.com/en/explore/hy-tech/Tech-outreach-overview/club) offers an in-depth look into several subjects, including HTML, CSS, and JavaScript! Take a look at some of the material below if you want to learn more:
 
