@@ -73,7 +73,7 @@ It's time to update the game itself with the new player.
 1. In the pop-up that appears, click the "Copy URL" button  
    ![](Assets/CopyAssetUrl.png)
 1. In the "Files" area on the left, open the **main.js** file  
-   ![](Assets/OpenMainJs.png)
+   ![](Assets/OpenMainJsFile.png)
 1. Find the line that says `let playerSpritesheet = ""`
 1. Click right in between the two double quotes  
    ![](Assets/PasteAssetUrl.png)

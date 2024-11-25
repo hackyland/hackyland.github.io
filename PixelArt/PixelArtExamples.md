@@ -2,9 +2,9 @@
 This page contains some neato-cool pieces of pixel art.
 
 ## Hackathon Graphics
-This graphic was created using Piskel!
+This graphic for the 2023 hackathon was created using Piskel!
 
-![](../../Assets/Welcome.png)
+![](Assets/Welcome.png)
 
 ## Characters
 You can do a lot with pixel art characters.
