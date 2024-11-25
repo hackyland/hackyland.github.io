@@ -5,6 +5,8 @@
   - [Possibilities](WebWorld/WebPossibilities.md)
   - [Customization](WebWorld/Customization.md)
 - [Data _based_](DataBased/Home.md)
+  - [MongoDB Atlas Registration](DataBased/MongoDbAtlasRegistration.md)
+  - [Follow-Along](DataBased/FollowAlong.md)
 - [Binary Data 🔟](BinaryData/Home.md)
 - [Hacky Hour 🐱‍💻](HackyHour/Home.md)
 - [Pixel Art 🎨](PixelArt/Home.md)
