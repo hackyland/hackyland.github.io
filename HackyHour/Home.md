@@ -17,3 +17,6 @@ Each example is hosted on [Trinket](https://trinket.io/). The code to run the ex
 
 ### Pygame: Squirrel Bounce
 [Click here to play another game.](https://trinket.io/pygame/402e687e63a4)
+
+## Puzzler's Puzzles
+If you would like to unlock the Puzzler's Box with the Puzzler's Key, you'll have to complete the paper puzzles. Good luck!
