@@ -6,7 +6,7 @@ Learn how you can use databases to liven up your projects.
 
 If/when you have an account, [click here to login to Atlas](https://cloud.mongodb.com/account/login)!
 
-Finally, [click here to remix the web application starter project on Glitch](https://glitch.com/edit/#!/remix/posts-db)!
+Finally, [click here to remix the web application starter project on Glitch](https://glitch.com/edit/#!/remix/hh25-posts-db)!
 
 ## Resources
 Here are some extra resources:

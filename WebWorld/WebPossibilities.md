@@ -10,6 +10,18 @@ You can do so much with HTML, CSS, and JavaScript. Here are a few examples of wh
 
 The coolest thing about these projects is that they are all open source - that means you can look at the code, and even copy it for your own project!
 
+There are also some smaller examples to help you start coding with Processing.
+
+### Example: Embers
+
+### Example: Image Generator
+[Click here to view the Image Generator.](https://editor.p5js.org/jsmaxwelldev/sketches/fCWaCRQf-)
+
+There's actually something wrong with this one! See if you can fix the error. Then, run the project, and click the screen to generate some randomized images.
+
+### Example: Waves
+
+
 ## 3D Worlds with A-Frame
 It is surprisingly easy to start building a 3D world on the web. [A-Frame](https://aframe.io/) is a great tool for doing so, and you can create without ever leaving an **index.html** file.
 
