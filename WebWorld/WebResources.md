@@ -29,3 +29,5 @@ For a little more guided learning, [Codecademy](https://www.codecademy.com/) has
 MDN Web Docs is the most robust collection of web reference material available anywhere online. It is more technical and rigorous, but it goes deep into all of the concepts that are fundamental to web development. MDN documentation is an excellent way to gain a truly deep understanding of the web, but it might be a little less friendly to beginners.
 
 [Click here for a good MDN learning starting point.](https://developer.mozilla.org/en-US/docs/Learn)
+
+>For the Hack Heist Scavenger's Key, Keyword 1 is website

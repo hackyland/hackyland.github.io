@@ -11,7 +11,7 @@ Present the [PowerPoint](DataBasedPresentation.pptx). These slides contain a bri
 Walk through the [Follow-Along Activity](FollowAlong.md) with the students. They should create and deploy their own cluster in MongoDB Atlas, and then connect to it through a web application.
 
 #### Starter Project: Web Application
-[Click here to remix the web application project on Glitch.](https://glitch.com/edit/#!/remix/posts-db)
+[Click here to remix the web application project on Glitch.](https://glitch.com/edit/#!/remix/hh25-posts-db)
 
 #### Back-up Connection String
 If a student is _really_ struggling to follow along with the activity, this connection string can be shared with them. Replace `<username>` with `ezekieljohnson`, and `<password>` with `eM4OPS9FdgsAVLpV` in this string:

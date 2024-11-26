@@ -76,7 +76,7 @@ Now, you should be able to edit the connection string. First, make sure that the
 ## Connecting from the Web Application
 The next step is to hook up a web application to your database! Luckily, there is a pre-built website application we can use - all we need is the connection string. The application is hosted on [Glitch](https://glitch.com) - an awesome way to create and share web apps.
 
-1. [Click here to remix the Posts DB project on Glitch](https://glitch.com/edit/#!/remix/posts-db)
+1. [Click here to remix the Posts DB project on Glitch](https://glitch.com/edit/#!/remix/hh25-posts-db)
 1. On the left, click the **.env** file to open it
 
   ![](Assets/GlitchOpenEnvFile.png)
