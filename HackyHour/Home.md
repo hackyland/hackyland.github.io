@@ -20,3 +20,8 @@ Each example is hosted on [Trinket](https://trinket.io/). The code to run the ex
 
 ## Puzzler's Puzzles
 If you would like to unlock the Puzzler's Box with the Puzzler's Key, you'll have to complete the paper puzzles. Good luck!
+
+## Merge Blocks
+[Click here to play the Merge Blocks game.](https://merge-blocks.glitch.me/)
+
+If you can beat the game, you will win a special prize.
